@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izquierrrdo
+- 👋 Hi, I’m Alex Smivnov (@izquierrrdo)
 - 👀 I’m interested in Frontend Dev, React, Next.js and React Native
 - 🌱 I’m currently learning Vue.js, Nuxt
 - 📫 How to reach me izquierrrdo@gmail.com
