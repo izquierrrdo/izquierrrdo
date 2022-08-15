@@ -1,7 +1,7 @@
-👋 Hi, I’m Alex Smivnov (@izquierrrdo)  
-👀 I’m interested in Frontend Dev, React and Next.js  
-🌱 I’m currently learning Vue.js, Nuxt  
-📫 How to reach me izquierrrdo@gmail.com  
+🍕 Alex Smivnov (@izquierrrdo)  
+🍕🍕 TypeScript React Next.js and Mongo  
+🍕🍕🍕 Currently learning Vue.js Nuxt Vite  
+🍕🍕🍕🍕 Stay in touch izquierrrdo@gmail.com  
 
 <!---
 izquierrrdo/izquierrrdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
