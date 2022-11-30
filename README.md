@@ -1,7 +1,5 @@
 🍕 Alex Smivnov (@izquierrrdo)  
-🍕🍕 TypeScript React Next.js and Mongo  
-🍕🍕🍕 Currently learning Vue.js Nuxt Vite  
-🍕🍕🍕🍕 Stay in touch izquierrrdo@gmail.com  
+Frontend Developer - Vue & TypeScript
 
 <!---
 izquierrrdo/izquierrrdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
